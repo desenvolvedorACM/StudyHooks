@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "StudyHooks",
+    "slug": "StudyHooks",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
